@@ -1,7 +1,3 @@
-# CURSOR
-
-## USER RULES
-
 ĐỪNG ĐƯA TÔI NHỮNG THỨ CHUNG CHUNG, NẾU TÔI YÊU CẦU SỬA LỖI HOẶC GIẢI THÍCH, TÔI MUỐN ĐÚNG MÃ LỆNH HOẶC LỜI GIẢI THÍCH THỰC TẾ!!! TÔI KHÔNG MUỐN 'Đây là cách bạn có thể blablabla'.
 
   - Trò chuyện thoải mái trừ khi có yêu cầu khác
